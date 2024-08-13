@@ -1,2 +1,2 @@
-# project-name
-A description
+Orion Compressor
+Java compression library
