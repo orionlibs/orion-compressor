@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-compressor</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <name>Orion Compressor</name>
     <description>Java compression library</description>
     <url>https://github.com/orionlibs/orion-compressor</url>
@@ -229,7 +229,7 @@
         <dependency>
             <groupId>io.github.orionlibs</groupId>
             <artifactId>orion-file-system</artifactId>
-            <version>1.0.0</version>
+            <version>1.0.2</version>
         </dependency>
     </dependencies>
 </project>
